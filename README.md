@@ -38,7 +38,7 @@ see_also = recommended(doc, articles, 5)
 
 ### Web server
 
-Besides those core functions, I also built a web server using flask. See the video on [how to launch a flask web server at Amazon](https://www.youtube.com/watch?v=qQncEJL6NHs&t=156s). We need to use [gunicorn](http://gunicorn.org/) because the "... *Flask’s built-in server is not suitable for production as it doesn’t scale well and by default serves only one request at a time.*" (from the doc). See [Standalone WSGI Containers](http://flask.pocoo.org/docs/1.0/deploying/wsgi-standalone/) for more on using flask with gunicorn. The server should respond to two different URLs: the list of articles is at `/` and each article is at something like `/article/business/353.txt`. The BBC corpus in directory `bbc` is organized with topic subdirectories and then a list of articles as text files:
+I built a flask wapper around these functionalities. I used [gunicorn](http://gunicorn.org/) because the "... *Flask’s built-in server is not suitable for production as it doesn’t scale well and by default serves only one request at a time.*" (from the doc). See [Standalone WSGI Containers](http://flask.pocoo.org/docs/1.0/deploying/wsgi-standalone/) for more on using flask with gunicorn. The server should respond to two different URLs: the list of articles is at `/` and each article is at something like `/article/business/353.txt`. The BBC corpus in directory `bbc` is organized with topic subdirectories and then a list of articles as text files:
 
 <img src="imgs/bbc.png" width=300>
 
