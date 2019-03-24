@@ -1,0 +1,379 @@
+(lp0
+(S'business/007.txt'
+p1
+(lp2
+(S'/article/business/253.txt'
+p3
+VJobs growth still slow in the US
+p4
+tp5
+a(S'/article/business/134.txt'
+p6
+VUS adds more jobs than expected
+p7
+tp8
+a(S'/article/business/292.txt'
+p9
+VSteady job growth continues in US
+p10
+tp11
+a(S'/article/business/416.txt'
+p12
+VSteady job growth continues in US
+p13
+tp14
+a(S'/article/business/022.txt'
+p15
+VSluggish economy hits German jobs
+p16
+tp17
+atp18
+a(S'business/025.txt'
+p19
+(lp20
+(S'/article/business/299.txt'
+p21
+VUS to rule on Yukos refuge call
+p22
+tp23
+a(S'/article/business/083.txt'
+p24
+VYukos accused of lying to court
+p25
+tp26
+a(S'/article/business/192.txt'
+p27
+VYukos bankruptcy 'not US matter'
+p28
+tp29
+a(S'/article/business/391.txt'
+p30
+VYukos heading back to US courts
+p31
+tp32
+a(S'/article/business/358.txt'
+p33
+VDeutsche attacks Yukos case
+p34
+tp35
+atp36
+a(S'business/131.txt'
+p37
+(lp38
+(S'/article/business/332.txt'
+p39
+VPutin backs state grab for Yukos
+p40
+tp41
+a(S'/article/business/077.txt'
+p42
+VChina had role in Yukos split-up
+p43
+tp44
+a(S'/article/business/314.txt'
+p45
+VYukos unit fetches $9bn at auction
+p46
+tp47
+a(S'/article/business/318.txt'
+p48
+VMystery surrounds new Yukos owner
+p49
+tp50
+a(S'/article/business/324.txt'
+p51
+VYukos seeks court action on sale
+p52
+tp53
+atp54
+a(S'business/223.txt'
+p55
+(lp56
+(S'/article/business/341.txt'
+p57
+VJarvis sells Tube stake to Spain
+p58
+tp59
+a(S'/article/business/367.txt'
+p60
+VTakeover offer for Sunderland FC
+p61
+tp62
+a(S'/article/business/062.txt'
+p63
+VWembley firm won't make a profit
+p64
+tp65
+a(S'/article/tech/119.txt'
+p66
+VArgonaut founder rebuilds empire
+p67
+tp68
+a(S'/article/business/021.txt'
+p69
+VRank 'set to sell off film unit'
+p70
+tp71
+atp72
+a(S'entertainment/157.txt'
+p73
+(lp74
+(S'/article/entertainment/159.txt'
+p75
+VBand Aid 20 single storms to No 1
+p76
+tp77
+a(S'/article/entertainment/143.txt'
+p78
+VBlair buys copies of new Band Aid
+p79
+tp80
+a(S'/article/entertainment/240.txt'
+p81
+VElvis 'set for chart hat-trick'
+p82
+tp83
+a(S'/article/entertainment/162.txt'
+p84
+VPrince crowned 'top music earner'
+p85
+tp86
+a(S'/article/entertainment/250.txt'
+p87
+VPrince crowned 'top music earner'
+p88
+tp89
+atp90
+a(S'entertainment/153.txt'
+p91
+(lp92
+(S'/article/entertainment/264.txt'
+p93
+VGrammys honour soul star Charles
+p94
+tp95
+a(S'/article/entertainment/286.txt'
+p96
+VGoodrem wins top female MTV prize
+p97
+tp98
+a(S'/article/entertainment/251.txt'
+p99
+VBrit awards for Devon music acts
+p100
+tp101
+a(S'/article/entertainment/125.txt'
+p102
+VSnow Patrol feted at Irish awards
+p103
+tp104
+a(S'/article/entertainment/243.txt'
+p105
+VBlue beat U2 to top France honour
+p106
+tp107
+atp108
+a(S'entertainment/356.txt'
+p109
+(lp110
+(S'/article/entertainment/043.txt'
+p111
+VStars pay tribute to actor Davis
+p112
+tp113
+a(S'/article/entertainment/044.txt'
+p114
+VUS actor Ossie Davis found dead
+p115
+tp116
+a(S'/article/entertainment/307.txt'
+p117
+VCarry On star Patsy Rowlands dies
+p118
+tp119
+a(S'/article/entertainment/339.txt'
+p120
+VKeanu Reeves given Hollywood star
+p121
+tp122
+a(S'/article/entertainment/314.txt'
+p123
+VHow the Academy Awards flourished
+p124
+tp125
+atp126
+a(S'politics/242.txt'
+p127
+(lp128
+(S'/article/politics/002.txt'
+p129
+VWatchdog probes e-mail deletions
+p130
+tp131
+a(S'/article/politics/233.txt'
+p132
+V'Few ready' for information act
+p133
+tp134
+a(S'/article/politics/116.txt'
+p135
+VCSA 'could close', says minister
+p136
+tp137
+a(S'/article/politics/315.txt'
+p138
+VCSA chief who 'quit' still in job
+p139
+tp140
+a(S'/article/politics/049.txt'
+p141
+VClarke to press on with ID cards
+p142
+tp143
+atp144
+a(S'sport/103.txt'
+p145
+(lp146
+(S'/article/sport/111.txt'
+p147
+VBridge could miss rest of season
+p148
+tp149
+a(S'/article/sport/104.txt'
+p150
+VChelsea clinch cup in extra-time
+p151
+tp152
+a(S'/article/sport/246.txt'
+p153
+VChelsea hold Arsenal
+p154
+tp155
+a(S'/article/sport/178.txt'
+p156
+VCole refuses to blame van Persie
+p157
+tp158
+a(S'/article/sport/278.txt'
+p159
+VRobben and Cole earn Chelsea win
+p160
+tp161
+atp162
+a(S'sport/364.txt'
+p163
+(lp164
+(S'/article/sport/403.txt'
+p165
+VCelts savour Grand Slam prospect
+p166
+tp167
+a(S'/article/sport/395.txt'
+p168
+VParis promise raises Welsh hopes
+p169
+tp170
+a(S'/article/sport/354.txt'
+p171
+VO'Sullivan keeps his powder dry
+p172
+tp173
+a(S'/article/sport/371.txt'
+p174
+VAll Black magic: New Zealand rugby
+p175
+tp176
+a(S'/article/sport/368.txt'
+p177
+VA November to remember
+p178
+tp179
+atp180
+a(S'tech/339.txt'
+p181
+(lp182
+(S'/article/tech/042.txt'
+p183
+VHotspot users gain free net calls
+p184
+tp185
+a(S'/article/tech/350.txt'
+p186
+VChip maker backs net phone calls
+p187
+tp188
+a(S'/article/tech/265.txt'
+p189
+VHalf of UK's mobiles 'go online'
+p190
+tp191
+a(S'/article/tech/136.txt'
+p192
+VBT offers free net phone calls
+p193
+tp194
+a(S'/article/tech/205.txt'
+p195
+VUK broadband gets speed injection
+p196
+tp197
+atp198
+a(S'tech/384.txt'
+p199
+(lp200
+(S'/article/tech/074.txt'
+p201
+VChina 'to overtake US net use'
+p202
+tp203
+a(S'/article/business/342.txt'
+p204
+VHonda wins China copyright ruling
+p205
+tp206
+a(S'/article/business/252.txt'
+p207
+VBT offers equal access to rivals
+p208
+tp209
+a(S'/article/business/437.txt'
+p210
+VChina bans new tobacco factories
+p211
+tp212
+a(S'/article/tech/242.txt'
+p213
+VPC ownership to 'double by 2010'
+p214
+tp215
+atp216
+a(S'tech/387.txt'
+p217
+(lp218
+(S'/article/tech/118.txt'
+p219
+VProgress on new internet domains
+p220
+tp221
+a(S'/article/tech/239.txt'
+p222
+VGo-ahead for new internet names
+p223
+tp224
+a(S'/article/tech/340.txt'
+p225
+VDomain system opens door to scams
+p226
+tp227
+a(S'/article/tech/049.txt'
+p228
+VDomain system scam fear
+p229
+tp230
+a(S'/article/tech/399.txt'
+p231
+VBe careful how you code
+p232
+tp233
+atp234
+a.
